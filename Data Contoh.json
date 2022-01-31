@@ -1,0 +1,706 @@
+[
+    {
+        "edus": [
+            {
+                "text": "ini adalah pertemuan awal untuk proyek kami.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan inilah yang akan kita lakukan selama dua puluh lima menit ke depan .",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi pertama-tama, hanya untuk membuat kita semua saling mengenal, saya laura dan saya manajer proyek.",
+                "speaker": "B"
+            },
+            {
+                "text": "mau perkenalkan diri lagi?",
+                "speaker": "B"
+            },
+            {
+                "text": "hai , saya david dan saya seharusnya menjadi desainer industri .",
+                "speaker": "A"
+            },
+            {
+                "text": "dan saya andrew dan saya ahli pemasaran kami.",
+                "speaker": "D"
+            },
+            {
+                "text": "saya craig dan saya antarmuka pengguna.",
+                "speaker": "C"
+            },
+            {
+                "text": "jadi kami merancang remote control baru dan harus merekam siapa sebenarnya yang ada di sini.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi itu david , andrew dan craig , bukan ?",
+                "speaker": "B"
+            },
+            {
+                "text": "dan Anda semua tiba tepat waktu.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi des desain remote control baru.",
+                "speaker": "B"
+            },
+            {
+                "text": "seperti yang Anda lihat, itu seharusnya asli, trendi, dan ramah pengguna.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi itu singkat kami, seolah-olah.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan jadi ada tiga tahap yang berbeda untuk desain.",
+                "speaker": "B"
+            },
+            {
+                "text": "saya tidak benar-benar apa yang telah Anda terima di email Anda.",
+                "speaker": "B"
+            },
+            {
+                "text": "apa yang kamu dapatkan ?",
+                "speaker": "B"
+            },
+            {
+                "text": "mendapat pengumuman proyek tentang apa proyek itu.",
+                "speaker": "A"
+            },
+            {
+                "text": "merancang kendali jarak jauh.",
+                "speaker": "A"
+            },
+            {
+                "text": "itu saja, tidak mendapatkan apa-apa lagi.",
+                "speaker": "A"
+            },
+            {
+                "text": "apakah itu yang semua orang dapatkan?",
+                "speaker": "B"
+            },
+            {
+                "text": "apakah anda mendapatkan hal yang sama?",
+                "speaker": "A"
+            },
+            {
+                "text": "jadi kita akan memiliki pekerjaan individu seperti dan kemudian bertemu tentang hal itu.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan ulangi proses itu tiga kali.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan pada titik ini kami mencoba papan tulis di sana.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi Anda bisa menggambar hewan favorit Anda dan menyimpulkan karakteristik favorit Anda darinya.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi siapa yang mau duluan?",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi yang ini disini, ?",
+                "speaker": "D"
+            },
+            {
+                "text": "hewan favorit saya seperti beagle.",
+                "speaker": "D"
+            },
+            {
+                "text": "karakteristik favorit charac itu?",
+                "speaker": "D"
+            },
+            {
+                "text": ", prioritas utama untuk setiap hewan bagi saya adalah bahwa mereka bersedia untuk mengambil banyak kasih sayang fisik dari keluarga mereka .",
+                "speaker": "D"
+            },
+            {
+                "text": "dan , bahwa mereka memiliki banyak kepribadian dan menjadi bugar dan dalam kesehatan yang baik .",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi ini biru.",
+                "speaker": "D"
+            },
+            {
+                "text": "beagle keluarga saya.",
+                "speaker": "D"
+            },
+            {
+                "text": "hewan favorit saya adalah monyet.",
+                "speaker": "C"
+            },
+            {
+                "text": "kemudian mereka kecil lucu dan berbulu , dan ketika planet kera menjadi nyata , aku akan berada di atas sana bersama mereka .",
+                "speaker": "C"
+            },
+            {
+                "text": "ada terlalu banyak peralatan.",
+                "speaker": "A"
+            },
+            {
+                "text": "Anda dapat mengambil selama ini yang Anda suka, karena kita tidak punya banyak hal untuk dibahas.",
+                "speaker": "B"
+            },
+            {
+                "text": "tidak merasa seperti Anda sedang terburu-buru, anyway.",
+                "speaker": "B"
+            },
+            {
+                "text": "bisa memberi tahu Anda lebih banyak tentang anjing beagle.",
+                "speaker": "D"
+            },
+            {
+                "text": "ach kenapa tidak kita mungkin harus membangunkanmu lagi.",
+                "speaker": "B"
+            },
+            {
+                "text": "Nak, biarkan aku memberitahumu.",
+                "speaker": "D"
+            },
+            {
+                "text": "apa milikku.",
+                "speaker": "B"
+            },
+            {
+                "text": "aku harus berpikir di tempat sekarang.",
+                "speaker": "B"
+            },
+            {
+                "text": "apakah itu paus?",
+                "speaker": "B"
+            },
+            {
+                "text": "lagi pula, itu hanya hewan pertama yang berpikir dari atas kepalaku.",
+                "speaker": "A"
+            },
+            {
+                "text": "alasan utamanya adalah karena saya alergi terhadap sebagian besar hewan.",
+                "speaker": "A"
+            },
+            {
+                "text": "alergi terhadap bulu binatang, jadi ikan adalah pilihan alami.",
+                "speaker": "A"
+            },
+            {
+                "text": ", dan seperti ikan paus .",
+                "speaker": "A"
+            },
+            {
+                "text": "mereka masuk dan pergi makan segala sesuatu yang terlihat.",
+                "speaker": "A"
+            },
+            {
+                "text": "dan mereka cukup tidak berbahaya dan ringan dan menarik.",
+                "speaker": "A"
+            },
+            {
+                "text": "masih apa yang saya akan menulis tentang.",
+                "speaker": "B"
+            },
+            {
+                "text": "sketsa yang luar biasa, omong-omong.",
+                "speaker": "D"
+            },
+            {
+                "text": "ekornya agak besar, .",
+                "speaker": "A"
+            },
+            {
+                "text": "akan memilih anjing sebagai.",
+                "speaker": "B"
+            },
+            {
+                "text": "tapi saya hanya akan menggambar anjing yang berbeda.",
+                "speaker": "B"
+            },
+            {
+                "text": "hewan favorit saya adalah anjing saya sendiri di rumah.",
+                "speaker": "B"
+            },
+            {
+                "text": "yang tidak benar-benar terlihat seperti dia, sebenarnya.",
+                "speaker": "B"
+            },
+            {
+                "text": "dia lebih mirip babi, sebenarnya.",
+                "speaker": "B"
+            },
+            {
+                "text": "melihat anjing di sana.",
+                "speaker": "D"
+            },
+            {
+                "text": "itu sangat baik darimu.",
+                "speaker": "B"
+            },
+            {
+                "text": "sekarang lihat ayam jago.",
+                "speaker": "D"
+            },
+            {
+                "text": "jenis apakah itu ?",
+                "speaker": "D"
+            },
+            {
+                "text": "dia campuran dari berbagai hal.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan apa yang disukai tentang dia, itu hanya untuk menunjukkan bahwa ekornya bergoyang.",
+                "speaker": "B"
+            },
+            {
+                "text": "dia sangat ramah dan ceria dan selalu senang melihat Anda , dan sangat penyayang dan dia cukup kecil sehingga dia tidak memakan terlalu banyak ruang .",
+                "speaker": "B"
+            },
+            {
+                "text": "dan dia melakukan hal lucu di mana dia mengejar ekornya, yang cukup lucu, jadi begitulah.",
+                "speaker": "B"
+            },
+            {
+                "text": "apakah dia sadar bahwa itu adalah ekor cha-nya sendiri yang dia kejar?",
+                "speaker": "D"
+            },
+            {
+                "text": "dia hanya melakukannya setelah dia makan malam dan dia akan tiba-tiba bangun dan mulai mengejar ekornya di sekitar ruang tamu.",
+                "speaker": "B"
+            },
+            {
+                "text": "itu anjing setelah makan malam.",
+                "speaker": "A"
+            },
+            {
+                "text": "mungkin ketika dia masih kecil dia mendapat banyak perhatian untuk melakukannya dan telah selamanya dikondisikan.",
+                "speaker": "D"
+            },
+            {
+                "text": "dimana kamu menemukan ini?",
+                "speaker": "B"
+            },
+            {
+                "text": "di bawah sini saja?",
+                "speaker": "B"
+            },
+            {
+                "text": "apa yang kita lakukan selanjutnya?",
+                "speaker": "B"
+            },
+            {
+                "text": "kita sekarang perlu membahas pembiayaan proyek.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi menurut brief kami akan menjual remote control ini seharga dua puluh lima euro , dan kami bertujuan untuk menghasilkan lima puluh juta euro .",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi kami akan menjual ini dalam skala internasional.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan kami tidak ingin harganya lebih dari dua belas lima puluh euro , jadi lima puluh persen dari harga jual .",
+                "speaker": "B"
+            },
+            {
+                "text": "bisakah kita membahasnya lagi?",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi bas di twel baik , .",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi biaya seperti biaya produksi adalah dua belas lima puluh, tetapi harga jual itu grosir atau eceran?",
+                "speaker": "D"
+            },
+            {
+                "text": "seperti di rak.",
+                "speaker": "D"
+            },
+            {
+                "text": "bayangkan itu pertanyaan yang bagus.",
+                "speaker": "B"
+            },
+            {
+                "text": "penjualan kami pula.",
+                "speaker": "D"
+            },
+            {
+                "text": "bayangkan itu mungkin penjualan kami sebenarnya karena mungkin terserah pengecer untuk menjualnya dengan harga berapa pun yang mereka inginkan.",
+                "speaker": "B"
+            },
+            {
+                "text": "tapi, apakah menurut Anda fakta bahwa itu akan dijual secara internasional akan berpengaruh pada bagaimana kami mendesainnya?",
+                "speaker": "B"
+            },
+            {
+                "text": "jauh saya ingin tahu apakah ada , seperti dengan d_v_d_ pemain , jika ada zona .",
+                "speaker": "D"
+            },
+            {
+                "text": "daerah dan , .",
+                "speaker": "B"
+            },
+            {
+                "text": "frekuensi sebagai karakter, gaya dan simbol keypad yang berbeda.",
+                "speaker": "D"
+            },
+            {
+                "text": "untuk remote control , kira kira itu tergantung seberapa rumit remote control kita .",
+                "speaker": "B"
+            },
+            {
+                "text": "itu masuk akal dari sudut pandang desain karena Anda memiliki karakter yang lebih rumit seperti bahasa Eropa, maka Anda memerlukan lebih banyak tombol.",
+                "speaker": "A"
+            },
+            {
+                "text": "jadi , mungkin .",
+                "speaker": "A"
+            },
+            {
+                "text": "dan kemudian semua hal internasional lainnya berada di atas harga.",
+                "speaker": "D"
+            },
+            {
+                "text": "Saya pikir harga mungkin menarik untuk pasar tertentu di satu wilayah, sedangkan di wilayah lain akan berbeda, jadi hanya karakteristik dari posisi podi produk dasar yang adil atau sama, remote control 25 euro mungkin besar hit di london , mungkin tidak seperti hit besar di yunani , siapa tahu , sesuatu seperti itu , .",
+                "speaker": "D"
+            },
+            {
+                "text": "apa, seperti dalam hal seperti kekayaan negara?",
+                "speaker": "B"
+            },
+            {
+                "text": "seperti berapa banyak uang yang harus dikeluarkan orang untuk hal-hal seperti?",
+                "speaker": "B"
+            },
+            {
+                "text": "ya , lihat apa maksudmu , .",
+                "speaker": "B"
+            },
+            {
+                "text": "pemikiran pemasaran yang baik.",
+                "speaker": "B"
+            },
+            {
+                "text": "astaga , harus menulis semua ini .",
+                "speaker": "B"
+            },
+            {
+                "text": "jauh saya membuat beberapa asumsi tentang informasi apa yang kami berikan di sini , berpikir , trendi mungkin berarti sesuatu yang lain dari sekedar dasar , sesuatu yang lain dari sekedar standar .",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi saya bertanya-tanya, apakah menjual dua puluh lima euro, apakah ini akan menjadi seperti produk premium atau semacamnya.",
+                "speaker": "D"
+            },
+            {
+                "text": "seperti berapa, biaya remote control.",
+                "speaker": "B"
+            },
+            {
+                "text": "dua puluh lima euro, itu kira-kira seperti delapan belas pound, bukan?",
+                "speaker": "B"
+            },
+            {
+                "text": "atau tidak, apakah sebanyak itu?",
+                "speaker": "B"
+            },
+            {
+                "text": "enam belas tujuh belas delapan belas pound .",
+                "speaker": "B"
+            },
+            {
+                "text": "saya akan mengatakan demikian, .",
+                "speaker": "D"
+            },
+            {
+                "text": ", Saya tidak pernah membeli remote control, jadi seberapa bagus remote control yang akan Anda dapatkan.",
+                "speaker": "B"
+            },
+            {
+                "text": "tapi , misalkan itu harus terlihat dan menarik perhatian .",
+                "speaker": "B"
+            },
+            {
+                "text": "biarkan aku meluncur di depan sini.",
+                "speaker": "B"
+            },
+            {
+                "text": "apakah ada yang punya sesuatu untuk ditambahkan ke masalah keuangan?",
+                "speaker": "B"
+            },
+            {
+                "text": "apakah kita memiliki informasi latar belakang lain seperti bagaimana dibandingkan dengan yang lain.",
+                "speaker": "D"
+            },
+            {
+                "text": "tipis tidak, sebenarnya.",
+                "speaker": "B"
+            },
+            {
+                "text": "yang akan berguna, meskipun, bukan, jika Anda tahu seperti apa uang Anda akan mendapatkan Anda sekarang.",
+                "speaker": "B"
+            },
+            {
+                "text": "hal yang menarik tentang mendiskusikan produksi remote control bagi saya adalah bahwa seperti yang Anda tunjukkan, jangan menganggap remote control sebagai sesuatu yang secara sadar dinilai orang dalam kebiasaan pembelian mereka.",
+                "speaker": "D"
+            },
+            {
+                "text": "itu seperti mendapatkan tali sepatu dengan sepatu.",
+                "speaker": "D"
+            },
+            {
+                "text": "itu datang begitu saja.",
+                "speaker": "D"
+            },
+            {
+                "text": "lima menit menuju akhir pertemuan.",
+                "speaker": "B"
+            },
+            {
+                "text": "kita sedikit di belakang.",
+                "speaker": "B"
+            },
+            {
+                "text": "seperti bagaimana Anda salah satu cara untuk melihatnya, orang-orang yang memproduksi televisi, mereka harus membeli remote control.",
+                "speaker": "D"
+            },
+            {
+                "text": "atau cara lain adalah orang-orang yang memiliki t_v_ set benar-benar muak dengan remote control mereka dan mereka benar-benar menginginkan yang lebih baik.",
+                "speaker": "D"
+            },
+            {
+                "text": "tahu orang tua saya pergi keluar dan membeli remote control karena mereka muak memiliki empat atau lima remote control yang berbeda untuk setiap barang di rumah.",
+                "speaker": "C"
+            },
+            {
+                "text": "jadi bagi mereka itu hanya berapa banyak perangkat kontrol.",
+                "speaker": "C"
+            },
+            {
+                "text": "jadi , jadi dalam fungsi salah satu prioritas mungkin untuk menggabungkan banyak kegunaan jadi .",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi menurut Anda itu harus seperti tujuan desain utama remote control kami, apakah satelit Anda dan televisi biasa Anda dan v_c_r_ Anda dan semuanya?",
+                "speaker": "B"
+            },
+            {
+                "text": "seperti , yang bisa kita gunakan adalah seperti contoh teknologi bagian lain yang sukses adalah pilot sawit .",
+                "speaker": "D"
+            },
+            {
+                "text": "mereka berubah dari hanya seperti papan tulis kecil menjadi kamera, m_p_ tiga pemain, telepon, segalanya, agenda.",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi , seperti , bertanya - tanya apakah kita bisa menambahkan sesuatu yang baru ke pasar remote control , seperti pencahayaan di rumah Anda , atau , .",
+                "speaker": "D"
+            },
+            {
+                "text": "atau bahkan seperti , catatan tentang apa yang ingin Anda tonton .",
+                "speaker": "B"
+            },
+            {
+                "text": "seperti yang mungkin Anda masukkan ke sana ingin menonton seperti itu dan terlihat itu ide yang bagus.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi fungsi ekstra.",
+                "speaker": "B"
+            },
+            {
+                "text": "seperti , secara pribadi bagi saya , di rumah saya telah menggabungkan video audio dari pesawat televisi saya dan pemutar d_v_d_ saya dan pemutar c_d_ saya .",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi mereka semua bekerja sebenarnya berfungsi bersama tetapi memiliki kendali jarak jauh yang berbeda untuk masing-masing.",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi ironis bahwa kemudian mereka ada di sana, suara dan semuanya itu hanya satu sistem.",
+                "speaker": "D"
+            },
+            {
+                "text": "tapi masing-masing punya bagian kecilnya sendiri.",
+                "speaker": "D"
+            },
+            {
+                "text": "saya akan baik kita harus menyelesaikan cukup cepat dalam beberapa menit berikutnya.",
+                "speaker": "B"
+            },
+            {
+                "text": "saya hanya akan memeriksa kami tidak punya apa-apa lagi.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi ada lagi yang ingin ditambahkan tentang apa yang tidak mereka sukai tentang kendali jarak jauh yang telah mereka gunakan, apa yang sebenarnya mereka inginkan untuk menjadi bagian dari yang baru ini?",
+                "speaker": "B"
+            },
+            {
+                "text": "dan Anda terus kehilangan mereka.",
+                "speaker": "A"
+            },
+            {
+                "text": "Anda terus kehilangan mereka.",
+                "speaker": "B"
+            },
+            {
+                "text": "menemukan mereka benar-benar menyakitkan,.",
+                "speaker": "A"
+            },
+            {
+                "text": "itu biasanya cukup kecil, atau ketika Anda menginginkannya, itu tergelincir di belakang sofa atau ditendang di bawah meja.",
+                "speaker": "A"
+            },
+            {
+                "text": "Anda mendapatkan orang-orang di mana Anda bisa, jika Anda suka, bersiul atau membuat suara bernada sangat tinggi mereka berbunyi bip.",
+                "speaker": "B"
+            },
+            {
+                "text": "itu hanya id yang sangat bagus.",
+                "speaker": "D"
+            },
+            {
+                "text": "ada sesuatu yang ingin kami sertakan, menurut Anda?",
+                "speaker": "B"
+            },
+            {
+                "text": "ingat ketika remote control pertama yang dimiliki keluarga saya menggunakan kabel.",
+                "speaker": "D"
+            },
+            {
+                "text": "sebenarnya memiliki kabel antara itu dan t_v_ dan tombol seperti besar yang suka , seperti pada blender .",
+                "speaker": "D"
+            },
+            {
+                "text": "dan , ketika tentang apa mereka sekarang , itu lebih baik , tapi sebenarnya masih , seperti barang rongsokan besar di atas meja .",
+                "speaker": "D"
+            },
+            {
+                "text": "masih terasa cukup primitif.",
+                "speaker": "B"
+            },
+            {
+                "text": "kita bisa memikirkan bagaimana, bisa lebih, efisien.",
+                "speaker": "D"
+            },
+            {
+                "text": "seperti layar sentuh?",
+                "speaker": "B"
+            },
+            {
+                "text": "sesuatu seperti itu , .",
+                "speaker": "D"
+            },
+            {
+                "text": "atau apa pun yang masuk akal secara teknologi.",
+                "speaker": "D"
+            },
+            {
+                "text": "itu terserah desainer industri kami.",
+                "speaker": "B"
+            },
+            {
+                "text": "Karena bisa jadi secara fungsional itu tidak membuatnya lebih baik , tapi itu hanya daya tarik tidak memiliki , hari ini ada barang-barang di rumah orang menjadi lebih dan lebih seperti chic , .",
+                "speaker": "D"
+            },
+            {
+                "text": "itu terlihat lebih baik.",
+                "speaker": "B"
+            },
+            {
+                "text": "bahan yang lebih bagus dan mungkin perlu dijelajahi.",
+                "speaker": "D"
+            },
+            {
+                "text": "jadi hanya untuk mengakhiri , pertemuan berikutnya akan diadakan dalam tiga puluh menit .",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi itu sekitar sepuluh sampai dua belas dengan arloji saya.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi di antara sekarang dan nanti , sebagai desainer industri , Anda akan mengerjakan desain kerja yang sebenarnya jadi apa yang Anda lakukan di sana .",
+                "speaker": "B"
+            },
+            {
+                "text": "untuk antarmuka pengguna, fungsi teknis, seperti yang telah kita bicarakan, apa yang sebenarnya akan dilakukan.",
+                "speaker": "B"
+            },
+            {
+                "text": "dan eksekutif pemasaran , Anda hanya akan berpikir tentang apa sebenarnya itu , persyaratan apa yang harus dipenuhi dan Anda semua akan mendapatkan instruksi yang dikirim melalui email kepada Anda , .",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi tahap desain fungsional berikutnya , .",
+                "speaker": "B"
+            },
+            {
+                "text": "dan itulah akhir pertemuan.",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi dapatkan pesan kecil itu lebih cepat dari yang seharusnya, jadi.",
+                "speaker": "B"
+            },
+            {
+                "text": "sebelum kita selesai , hanya untuk membuat kita semua berada di halaman yang sama di sini , apakah kita diberi contoh mesin kopi , ?",
+                "speaker": "D"
+            },
+            {
+                "text": "apakah kita sekarang berada pada asumsi bahwa remote control televisi kita mungkin memiliki fitur yang melampaui televisi?",
+                "speaker": "D"
+            },
+            {
+                "text": "atau apakah kita menjaga komitmen desain seperti fitur televisi?",
+                "speaker": "D"
+            },
+            {
+                "text": "hanya sangat cepat karena ini kita harus menyelesaikannya sekarang.",
+                "speaker": "B"
+            },
+            {
+                "text": "itu terserah kami , Anda mungkin ingin beberapa nilai jual yang unik , jadi , .",
+                "speaker": "B"
+            },
+            {
+                "text": "salah satu faktornya adalah biaya produksi.",
+                "speaker": "A"
+            },
+            {
+                "text": "karena ada batasnya, jadi tergantung seberapa banyak Anda bisa menjejalkan ke dalam harga itu.",
+                "speaker": "A"
+            },
+            {
+                "text": "bahwa itulah maor.",
+                "speaker": "A"
+            },
+            {
+                "text": ", kita akan itu akhir pertemuan , kemudian .",
+                "speaker": "B"
+            },
+            {
+                "text": "jadi , semua untuk datang .",
+                "speaker": "B"
+            }
+        ],
+        "id": "xxxxx",
+        "relations": [
+            {
+                "y": 1,
+                "x": 0,
+                "type": "Explanation"
+            }
+        ]
+    }
+]
