@@ -2,7 +2,7 @@
 
 Nama Data Awal (Mentah) = Record.docx 
 
-format tujuan = Data Contoh
+format tujuan = Data Contoh.json
 
-baru bisa hingga save satu baris data = My Record71
+baru bisa hingga save satu baris data = My Record71.json
 
