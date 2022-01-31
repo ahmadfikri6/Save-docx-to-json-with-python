@@ -2,3 +2,4 @@
 
 Nama Data Awal (Mentah) = Record.docx 
 
+format tujuan = Data Contoh
