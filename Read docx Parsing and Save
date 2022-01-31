@@ -3,3 +3,34 @@ import json
 import os
 import docx
 
+doc = open("Record.docx","rb")
+
+# membuat word reader object
+document = docx.Document(doc)
+
+#membuat variabel yang kosong untuk temporary
+docu=""
+for para in document.paragraphs:
+       docu += para.text
+
+sentencee = re.findall(r'([a-zA-Z]+)\:([\w]+[\D]+\.)',docu)
+
+for i in sentencee:
+    print (i)
+
+
+data = {}
+for i in sorted(set(sentencee)):
+    for j in (sentence):
+        name = i[0]
+        isi = i[1]
+       
+        data = {"nama": name, "isi": isi}
+    
+        
+        datanya = {"Percakapan ": data}
+        
+
+with open("My Record71.json", "w") as out_file:
+    json.dump(datanya, out_file, indent = 4, sort_keys=True)
+    out_file.close()
